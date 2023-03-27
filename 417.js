@@ -1,0 +1,3 @@
+(self.webpackChunk_argent_x_extension=self.webpackChunk_argent_x_extension||[]).push([[417],{57226:n=>{function e(t){return Promise.resolve().then(()=>{var o=new Error("Cannot find module '"+t+"'");throw o.code="MODULE_NOT_FOUND",o})}e.keys=()=>[],e.resolve=e,e.id=57226,n.exports=e},2862:(n,e,t)=>{"use strict";t.r(e),t.d(e,{default:()=>_});var o=t(52322),a=t(60945),s=t(59226);const _=({nft:r})=>(0,o.jsx)("model-viewer",{src:r.animation_uri,alt:`3D model of ${r.name}`,poster:(0,s.TU)(r),"auto-rotate":!0,"camera-controls":!0,"shadow-intensity":"1","poster-color":"transparent",ar:!0})}}]);
+
+//# sourceMappingURL=sourcemaps/417.js.map
